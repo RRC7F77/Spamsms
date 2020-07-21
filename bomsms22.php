@@ -32,7 +32,7 @@ $banner ="\033[94m─────────▀▀▀▀▀▀\033[93m───
 function send($phone) {
         $ch = curl_init();
         curl_setopt($ch, CURLOPT_URL, "https://dz-tools.my.id/prank/otp-codashop-telkomsel");
-		curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, false);
+		curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, true);
         curl_setopt($ch, CURLOPT_FOLLOWLOCATION, true);
         curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
         curl_setopt($ch, CURLOPT_HEADER, true);
