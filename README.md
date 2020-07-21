@@ -8,7 +8,7 @@ pkg install git
 
 pkg install php
 
-git clone https://github.com/sixtysix-Team/bomcall
+git clone https://github.com/RRC7F77/Spamsms22
 
 cd bomcall
 
