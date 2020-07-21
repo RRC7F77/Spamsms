@@ -25,8 +25,8 @@ $banner ="\033[94m─────────▀▀▀▀▀▀\033[93m───
 \033[91m[#] \033[93mSpamsms22 \033[91m[#]
 
 \033[95m=============================================\n
-\033[95mauthor : \033[91mBLANK (sixtysix-Team)
-\033[95mgithub : \033[91mhttps://github.com/sixtysix-Team\n
+\033[95mauthor : \033[91mBLANK (Albimo22-Team)
+\033[95mgithub : \033[91mhttps://github.com/RRC7F77/Spamsms22\n
 \033[95m=============================================\n";
 
 function send($phone) {
